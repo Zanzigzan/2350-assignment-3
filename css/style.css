@@ -81,19 +81,19 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FF0000;
+    color: #FFC0C0;
     text-decoration: none;
     font-weight: bold;
     padding: 10px 20px;
     display: block;
-    background-color: #fff;
+    background-color: #2A2A2A;
     margin: 10px;
     transition: transform 0.3s ease;
 }
 
 nav ul li a:hover {
-    color: #fff;
-    background-color: #FF3333;
+    color: #2A2A2A;
+    background-color: #FFC0C0;
     transform: translateY(-5px);
 }
 
