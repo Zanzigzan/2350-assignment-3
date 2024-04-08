@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li, dl, dt, dd {
 }
 
 h4, h1 {
-    color: #FF0000;
+    color: #FFC0C0;
 }
 
 body {
@@ -81,7 +81,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FF0000;
+    color: #FF9999;
     text-decoration: none;
     font-weight: bold;
     padding: 10px 20px;
@@ -125,7 +125,7 @@ main {
 }
 
 main a {
-    color: #FF4747; 
+    color: #FF9999; 
     text-decoration: underline;
     font-weight: bold;
 }
@@ -139,7 +139,7 @@ main a:hover {
 /* Main Content Details */
 dt {
     font-weight: bold;
-    color: #FF0000;
+    color: #FFC0C0;
     margin-bottom: 5px;
 }
 
