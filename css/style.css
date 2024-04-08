@@ -86,7 +86,7 @@ nav ul li a {
     font-weight: bold;
     padding: 10px 20px;
     display: block;
-    background-color: #c4c4c4;
+    background-color: #fff;
     margin: 10px;
     transition: transform 0.3s ease;
 }
