@@ -81,7 +81,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #FF9999;
+    color: #FF3333;
     text-decoration: none;
     font-weight: bold;
     padding: 10px 20px;
@@ -93,7 +93,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #fff;
-    background-color: #FF0000;
+    background-color: #FF3333;
     transform: translateY(-5px);
 }
 
