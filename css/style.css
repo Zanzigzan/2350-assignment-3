@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li, dl, dt, dd {
 }
 
 h4, h1 {
-    color: #E50914;
+    color: #FF4747;
 }
 
 body {
@@ -38,7 +38,7 @@ body {
 /* Header */
 header {
     display: block;
-    background: #E50914;
+    background: #FF4747;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -81,7 +81,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #E50914;
+    color: #FF4747;
     text-decoration: none;
     font-weight: bold;
     padding: 10px 20px;
@@ -93,7 +93,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #fff;
-    background-color: #E50914;
+    background-color: #FF4747;
     transform: translateY(-5px);
 }
 
@@ -113,19 +113,19 @@ nav ul li a:hover {
     width: 200px;
     height: 350px;
     border-radius: 15px;
-    border: 2px solid #E50914;
+    border: 2px solid #FF4747;
 }
 
 main {
     flex: 2;
     padding: 20px;
-    border: 1px solid #E50914;
+    border: 1px solid #FF4747;
     background-color: #333333;
     border-radius: 15px;
 }
 
 main a {
-    color: #E50914; 
+    color: #FF4747; 
     text-decoration: underline;
     font-weight: bold;
 }
@@ -139,7 +139,7 @@ main a:hover {
 /* Main Content Details */
 dt {
     font-weight: bold;
-    color: #E50914;
+    color: #FF4747;
     margin-bottom: 5px;
 }
 
